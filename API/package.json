@@ -1,0 +1,19 @@
+{
+  "name": "timesheets-api",
+  "version": "1.0.0",
+  "description": "API used to add timesheet entries for employees and contractors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auth0-samples/auth0-pnp-exampleco-timesheets.git"
+  },
+  "author": "Auth0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0-samples/auth0-pnp-exampleco-timesheets/issues"
+  },
+  "homepage": "https://github.com/auth0-samples/auth0-pnp-exampleco-timesheets#readme"
+}
